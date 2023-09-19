@@ -1,0 +1,3 @@
+-This past week I researched to get a foundation in MCU programming
+-Looked at ESP32 WROVER datasheet and documents to see what model to use and to understand the devices
+-Downloaded VScode and installed ESP IDF extnesion and started looking at documentation
