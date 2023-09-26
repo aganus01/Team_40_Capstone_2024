@@ -3,3 +3,7 @@ This past week I researched to get a foundation in MCU programming
 Looked at ESP32 WROVER datasheet and documents to see what model to use and to understand the devices
 Downloaded VScode and installed ESP IDF extnesion and started looking at documentation
 Plan on continuing to research and hopefully have the parts I need to order set before next week.
+9/26/23
+Researched many ESP32 Wrover kit tutorials to see what components I need
+Learned Altium and starting MCU design
+
