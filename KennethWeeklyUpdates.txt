@@ -6,4 +6,5 @@ Plan on continuing to research and hopefully have the parts I need to order set 
 9/26/23
 Researched many ESP32 Wrover kit tutorials to see what components I need
 Learned Altium and starting MCU design
-
+10/03/23
+Worked on altium circuit simulation
