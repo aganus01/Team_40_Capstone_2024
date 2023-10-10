@@ -1,11 +1,11 @@
 Last week: 
-- Finished FSR, ICD, Validation, and Execution plans
-- Finalized parts list
+- Created Intro presentation for class (Wednesday) 
+- Ordered and Received Parts
+- Simulated Power Switching Circuit in LTSpice (Temperature Controls uses a like circuit as well)
+- Simulated LTC3780 in LTSpice
 
 This week:
-- Created Intro presentation for class (Wednesday) 
-- Ordered Parts
-- Finish Circuit Simulations
+- Finish PCB design in Altium (deadline: Blitz)
 
 Next week:
-- Starting PCB design
+- Send PCB Design for Fabrication
