@@ -8,3 +8,7 @@ Researched many ESP32 Wrover kit tutorials to see what components I need
 Learned Altium and starting MCU design
 10/03/23
 Worked on altium circuit simulation
+10/07/23
+Continued to work on altium circuit schematic
+10/17/23
+99% done with circuit schematic, started on PCB routing.
