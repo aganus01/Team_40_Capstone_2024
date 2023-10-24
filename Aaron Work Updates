@@ -1,11 +1,10 @@
 Last week: 
-- Created Intro presentation for class (Wednesday) 
-- Ordered and Received Parts
-- Simulated Power Switching Circuit in LTSpice (Temperature Controls uses a like circuit as well)
-- Simulated LTC3780 in LTSpice
+- Routed Temperature Controls and Power Switching Circuit PCB
+- Updated 3780 Schematic for better visual organization
 
 This week:
-- Finish PCB design in Altium (deadline: Blitz)
+- Finish PCB design in Altium
+- Send PCB Design for Fabrication
 
 Next week:
-- Send PCB Design for Fabrication
+- Order minor parts (resistors, capacitors, etc.)
