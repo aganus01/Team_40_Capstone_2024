@@ -15,3 +15,6 @@ Continued to work on altium circuit schematic
 10/24/23
 Continued with PCB routing
 Fixed minor Schematic issues after design review with TA
+10/31/23
+Continued with PCB routing.
+Minor footprint issues and design rule questions to be resolved soon.
