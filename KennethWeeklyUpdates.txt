@@ -1,20 +1,4 @@
-9/19/23
-This past week I researched to get a foundation in MCU programming
-Looked at ESP32 WROVER datasheet and documents to see what model to use and to understand the devices
-Downloaded VScode and installed ESP IDF extnesion and started looking at documentation
-Plan on continuing to research and hopefully have the parts I need to order set before next week.
-9/26/23
-Researched many ESP32 Wrover kit tutorials to see what components I need
-Learned Altium and starting MCU design
-10/03/23
-Worked on altium circuit simulation
-10/10/23
-Continued to work on altium circuit schematic
-10/17/23
-99% done with circuit schematic, started on PCB routing.
-10/24/23
-Continued with PCB routing
-Fixed minor Schematic issues after design review with TA
-10/31/23
-Continued with PCB routing.
-Minor footprint issues and design rule questions to be resolved soon.
+1/18/24
+My subsystem board is assembled right now, and I can upload code to the mcu chip. However, I do not see a response from the mcu via the serial port. I do not know if this is a programming issue or a hardware issue.
+
+My plan for the future is to identify the source of the issue and then coding the mcu logic for processing sensor data and controlling power.
