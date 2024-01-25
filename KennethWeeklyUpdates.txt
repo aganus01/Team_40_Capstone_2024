@@ -2,3 +2,8 @@
 My subsystem board is assembled right now, and I can upload code to the mcu chip. However, I do not see a response from the mcu via the serial port. I do not know if this is a programming issue or a hardware issue.
 
 My plan for the future is to identify the source of the issue and then coding the mcu logic for processing sensor data and controlling power.
+
+1/25/24
+I have verified I can upload code to the mcu module and recieve feedback from the serial monitor in the arduino IDE. I have improved my routing on my schematic, and I am currently researching parts to use for testing connections between subsystems.
+
+My plan for the future is to code the rest of the mcu logic and code for communication with the pc application.
