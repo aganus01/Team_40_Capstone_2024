@@ -7,3 +7,7 @@ My plan for the future is to identify the source of the issue and then coding th
 I have verified I can upload code to the mcu module and recieve feedback from the serial monitor in the arduino IDE. I have improved my routing on my schematic, and I am currently researching parts to use for testing connections between subsystems.
 
 My plan for the future is to code the rest of the mcu logic and code for communication with the pc application.
+
+2/1/24
+My schematic and routing are now completely updated to interact with my teammates' updated subsystems. I am having some trouble communicating between the board and PC application due to inexperience with Ethernet using C++, but am not completely stuck.
+My plan for the future is to fix the bugs with the TCP protocol and finish code for I2C and SPI in the MCU logic for sensor connections.
