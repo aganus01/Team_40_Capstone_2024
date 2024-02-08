@@ -11,3 +11,6 @@ My plan for the future is to code the rest of the mcu logic and code for communi
 2/1/24
 My schematic and routing are now completely updated to interact with my teammates' updated subsystems. I am having some trouble communicating between the board and PC application due to inexperience with Ethernet using C++, but am not completely stuck.
 My plan for the future is to fix the bugs with the TCP protocol and finish code for I2C and SPI in the MCU logic for sensor connections.
+
+2/8/24
+More updates to schematic and routing to sync with teammate subsystems. Continued to work on TCP/IP protocol code. Rudimentary MCU I2C and SPI code done. Will disscuss I2C and SPI code for peripherals with teammates. Will try to get working TCP/IP code done.
