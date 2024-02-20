@@ -1,10 +1,12 @@
-Last week: 
-- Did most of the PCB Routing for the Fixed Converter
-- Started routing for Adjustable Converter
+02/15/2024: 
+- Made design updates per sponsor and professor recommendations
+- Eliminated rev 2 subsystem pcb fabrication s.t. time lost from sponsor updates is recovered
 
-This week:
-- Finish PCB design in Altium
-- Send PCB Design for Fabrication (Advanced PCB)
+
+02/22/2024:
+- Finished Revision 2 PCB design updates from sponsor review
+- Began integration design in Altium
 
 Next week:
-- Order minor parts (resistors, capacitors, etc.)
+- Send design files to sponsor for validation
+- make design revisions per sponsor recommendations
