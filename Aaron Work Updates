@@ -5,8 +5,8 @@
 
 02/22/2024:
 - Finished Revision 2 PCB design updates from sponsor review
-- Began integration design in Altium
+- Started integration design in Altium
 
-Next week:
-- Send design files to sponsor for validation
-- make design revisions per sponsor recommendations
+02/29/2024:
+- Finalized integration design in Altium
+- Implemented Sponsor recommendations that weren't able to be made in the subsystem board
