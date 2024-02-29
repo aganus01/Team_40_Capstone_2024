@@ -14,3 +14,12 @@ My plan for the future is to fix the bugs with the TCP protocol and finish code 
 
 2/8/24
 More updates to schematic and routing to sync with teammate subsystems. Continued to work on TCP/IP protocol code. Rudimentary MCU I2C and SPI code done. Will disscuss I2C and SPI code for peripherals with teammates. Will try to get working TCP/IP code done.
+
+2/15/24
+Updates to schematic, rerouted entire PCB to better fit specifications. Discussed connections and integration specs with teammates/TA, will continue to work on integration.
+
+2/22/24
+Integration PCB created. All three subsystems combined in schematics. All three subsystems present on PCB, figuring out split planes and nets with connecting subystems. Will continue to work on integration.
+
+2/29/24
+Most connections on PCB are routed, currently fixing minor issues. Plan to send files to TI for review by friday. Will edit integration based on feedback from TI.
