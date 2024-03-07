@@ -11,6 +11,9 @@
 - Finalized integration design in Altium
 - Implemented Sponsor recommendations that weren't able to be made in the subsystem board
 
+03/06/2024:
+- Waiting on final sponsor recommendations
+
 Next week:
-- Implement sponsor changes during Design Blitz
-- Send board out for fab
+- Implement recommendations when received
+- Fab board asap
