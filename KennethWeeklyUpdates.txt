@@ -23,3 +23,9 @@ Integration PCB created. All three subsystems combined in schematics. All three 
 
 2/29/24
 Most connections on PCB are routed, currently fixing minor issues. Plan to send files to TI for review by friday. Will edit integration based on feedback from TI.
+
+3/7/24
+PCB sent off for review by TI, made preliminary changes based on TI feedback.
+
+3/21/24
+TI review has not come in yet, plan on assembling PCB by next meeting.
