@@ -29,3 +29,6 @@ PCB sent off for review by TI, made preliminary changes based on TI feedback.
 
 3/21/24
 TI review has not come in yet, plan on assembling PCB by next meeting.
+
+3/28/24
+The board was heavily delayed due to factors outside of our control, so the only progress we have is that we ordered and recieved our parts. We plan on assembling and testing by next meeting.
