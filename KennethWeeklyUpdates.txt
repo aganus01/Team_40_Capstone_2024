@@ -32,3 +32,6 @@ TI review has not come in yet, plan on assembling PCB by next meeting.
 
 3/28/24
 The board was heavily delayed due to factors outside of our control, so the only progress we have is that we ordered and recieved our parts. We plan on assembling and testing by next meeting.
+
+4/4/24
+Board has arrived, my subsystem parts are fully soldered with a few shorts to fix. Stanley's subsystem is also done, only Aaron's left. Plan on finishing assembly and testing.
